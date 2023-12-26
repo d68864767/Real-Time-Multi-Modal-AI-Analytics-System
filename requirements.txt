@@ -1,0 +1,37 @@
+# Python version
+python==3.8
+
+# Backend Framework
+Flask==1.1.2
+
+# AI/ML Libraries
+tensorflow==2.4.1
+pytorch==1.7.1
+numpy==1.19.5
+pandas==1.1.5
+scikit-learn==0.24.1
+nltk==3.5
+
+# Real-Time Data Streaming
+kafka-python==2.0.2
+
+# Database
+psycopg2-binary==2.8.6
+pymongo==3.11.3
+
+# Deployment and Scalability
+docker==4.4.4
+kubernetes==12.0.1
+
+# Security
+pycryptodome==3.10.1
+
+# Optimization
+scipy==1.6.2
+
+# Dashboard
+dash==1.19.0
+dash-bootstrap-components==0.11.3
+
+# Other
+requests==2.25.1
